@@ -1,0 +1,9 @@
+c:\users\savacion\documents\visual studio 2015\Projects\x1\x1\bin\Debug\x1.exe.config
+c:\users\savacion\documents\visual studio 2015\Projects\x1\x1\bin\Debug\x1.exe
+c:\users\savacion\documents\visual studio 2015\Projects\x1\x1\bin\Debug\x1.pdb
+c:\users\savacion\documents\visual studio 2015\Projects\x1\x1\obj\Debug\x1.csprojResolveAssemblyReference.cache
+c:\users\savacion\documents\visual studio 2015\Projects\x1\x1\obj\Debug\x1.Form1.resources
+c:\users\savacion\documents\visual studio 2015\Projects\x1\x1\obj\Debug\x1.Properties.Resources.resources
+c:\users\savacion\documents\visual studio 2015\Projects\x1\x1\obj\Debug\x1.csproj.GenerateResource.Cache
+c:\users\savacion\documents\visual studio 2015\Projects\x1\x1\obj\Debug\x1.exe
+c:\users\savacion\documents\visual studio 2015\Projects\x1\x1\obj\Debug\x1.pdb
